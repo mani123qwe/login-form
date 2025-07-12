@@ -19,5 +19,4 @@ A clean, responsive, and secure **Login Form** built using HTML, CSS, and PHP. I
 
 ---
 
-## 📁 Project Structure
 
